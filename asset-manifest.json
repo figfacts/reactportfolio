@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/reactportfolio/static/css/main.31b0840c.chunk.css",
+    "main.js": "/reactportfolio/static/js/main.17ffeb5c.chunk.js",
+    "main.js.map": "/reactportfolio/static/js/main.17ffeb5c.chunk.js.map",
+    "runtime-main.js": "/reactportfolio/static/js/runtime-main.420c65ea.js",
+    "runtime-main.js.map": "/reactportfolio/static/js/runtime-main.420c65ea.js.map",
+    "static/js/2.2d36b28c.chunk.js": "/reactportfolio/static/js/2.2d36b28c.chunk.js",
+    "static/js/2.2d36b28c.chunk.js.map": "/reactportfolio/static/js/2.2d36b28c.chunk.js.map",
+    "index.html": "/reactportfolio/index.html",
+    "static/css/main.31b0840c.chunk.css.map": "/reactportfolio/static/css/main.31b0840c.chunk.css.map",
+    "static/js/2.2d36b28c.chunk.js.LICENSE.txt": "/reactportfolio/static/js/2.2d36b28c.chunk.js.LICENSE.txt",
+    "static/media/dev-david-02.a310f87c.jpg": "/reactportfolio/static/media/dev-david-02.a310f87c.jpg",
+    "static/media/portfolio-01-Stock-Watcher-Square.49e0de74.PNG": "/reactportfolio/static/media/portfolio-01-Stock-Watcher-Square.49e0de74.PNG",
+    "static/media/portfolio-02-WindyWeather-Square.d755c86d.png": "/reactportfolio/static/media/portfolio-02-WindyWeather-Square.d755c86d.png",
+    "static/media/portfolio-03-SameDayScheduler-Square.97e1477e.PNG": "/reactportfolio/static/media/portfolio-03-SameDayScheduler-Square.97e1477e.PNG",
+    "static/media/portfolio-04-TraderJocks-Square.29050588.png": "/reactportfolio/static/media/portfolio-04-TraderJocks-Square.29050588.png",
+    "static/media/portfolio-05-WorkoutTracker-Screen-2-Square.90390f1f.png": "/reactportfolio/static/media/portfolio-05-WorkoutTracker-Screen-2-Square.90390f1f.png",
+    "static/media/profilepic.69f1a945.jpg": "/reactportfolio/static/media/profilepic.69f1a945.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.420c65ea.js",
+    "static/js/2.2d36b28c.chunk.js",
+    "static/css/main.31b0840c.chunk.css",
+    "static/js/main.17ffeb5c.chunk.js"
+  ]
+}
